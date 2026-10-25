@@ -1,189 +1,189 @@
-date,industry,median_pe
-2026-10-25,2/3 Wheelers,33
-2026-10-25,Abrasives & Bearings,61
-2026-10-25,Advertising & Media Agencies,13
-2026-10-25,Aerospace & Defense,72
-2026-10-25,Airline,19
-2026-10-25,Airport & Airport services,164
-2026-10-25,Aluminium,21
-2026-10-25,"Aluminium, Copper & Zinc Products",18
-2026-10-25,Amusement Parks/ Other Recreation,23
-2026-10-25,Animal Feed,19
-2026-10-25,Asset Management Company,31
-2026-10-25,Auto Components & Equipments,27
-2026-10-25,Auto Dealer,26
-2026-10-25,Biotechnology,47
-2026-10-25,Breweries & Distilleries,44
-2026-10-25,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),24
-2026-10-25,Cables - Electricals,23
-2026-10-25,Carbon Black,35
-2026-10-25,Castings & Forgings,27
-2026-10-25,Cement & Cement Products,24
-2026-10-25,Ceramics,28
-2026-10-25,Cigarettes & Tobacco Products,10
-2026-10-25,Civil Construction,14
-2026-10-25,Coal,21
-2026-10-25,Commercial Vehicles,23
-2026-10-25,Commodity Chemicals,18
-2026-10-25,"Compressors, Pumps & Diesel Engines",37
-2026-10-25,Computers - Software & Consulting,19
-2026-10-25,Computers Hardware & Equipments,21
-2026-10-25,Construction Vehicles,27
-2026-10-25,Consulting Services,33
-2026-10-25,Consumer Electronics,35
-2026-10-25,Copper,33
-2026-10-25,Dairy Products,26
-2026-10-25,Data Processing Services,
-2026-10-25,"Dealers-Commercial Vehicles, Tractors, Construction Vehicles",46
-2026-10-25,"Depositories, Clearing Houses and Other Intermediaries",36
-2026-10-25,Digital Entertainment,20
-2026-10-25,Distributors,18
-2026-10-25,Diversified,14
-2026-10-25,Diversified Commercial Services,16
-2026-10-25,Diversified consumer products,40
-2026-10-25,Diversified FMCG,39
-2026-10-25,Diversified Metals,22
-2026-10-25,Diversified Retail,45
-2026-10-25,Dredging,59
-2026-10-25,Dyes And Pigments,21
-2026-10-25,E-Learning,14
-2026-10-25,E-Retail/ E-Commerce,49
-2026-10-25,Edible Oil,16
-2026-10-25,Education,29
-2026-10-25,Electrodes & Refractories,29
-2026-10-25,Electronic Media,
-2026-10-25,Exchange and Data Platform,46
-2026-10-25,Explosives,79
-2026-10-25,Ferro & Silica Manganese,24
-2026-10-25,Fertilizers,12
-2026-10-25,"Film Production, Distribution & Exhibition",52
-2026-10-25,Financial Institution,14
-2026-10-25,Financial Products Distributor,47
-2026-10-25,Financial Technology (Fintech),25
-2026-10-25,Footwear,38
-2026-10-25,Forest Products,38
-2026-10-25,"Furniture, Home Furnishing",26
-2026-10-25,Garments & Apparels,20
-2026-10-25,Gas Transmission/Marketing,34
-2026-10-25,"Gems, Jewellery And Watches",20
-2026-10-25,General Insurance,36
-2026-10-25,Glass - Consumer,17
-2026-10-25,Glass - Industrial,18
-2026-10-25,Granites & Marbles,28
-2026-10-25,"Healthcare Research, Analytics & Technology",30
-2026-10-25,Healthcare Service Provider,35
-2026-10-25,Heavy Electrical Equipment,31
-2026-10-25,Holding Company,10
-2026-10-25,Hospital,42
-2026-10-25,Hotels & Resorts,27
-2026-10-25,Household Appliances,33
-2026-10-25,Household Products,23
-2026-10-25,Houseware,27
-2026-10-25,Housing Finance Company,12
-2026-10-25,Industrial Gases,59
-2026-10-25,Industrial Machinery,53
-2026-10-25,Industrial Minerals,14
-2026-10-25,Industrial Products,33
-2026-10-25,Insurance Distributors,21
-2026-10-25,Integrated Power Utilities,22
-2026-10-25,Internet & Catalogue Retail,16
-2026-10-25,Investment Company,24
-2026-10-25,Iron & Steel,17
-2026-10-25,Iron & Steel Products,21
-2026-10-25,IT Enabled Services,23
-2026-10-25,Jute & Jute Products,16
-2026-10-25,Leather And Leather Products,20
-2026-10-25,Leisure Products,17
-2026-10-25,Life Insurance,59
-2026-10-25,Logistics Solution Provider,25
-2026-10-25,LPG/CNG/PNG/LNG Supplier,14
-2026-10-25,Lubricants,10
-2026-10-25,Meat Products including Poultry,8
-2026-10-25,Media & Entertainment,41
-2026-10-25,Medical Equipment & Supplies,34
-2026-10-25,Microfinance Institutions,11
-2026-10-25,Multi Utilities,10
-2026-10-25,Non Banking Financial Company (NBFC),18
-2026-10-25,Offshore Support Solution Drilling,19
-2026-10-25,Oil Equipment & Services,16
-2026-10-25,Oil Exploration & Production,49
-2026-10-25,Oil Storage & Transportation,54
-2026-10-25,Other Agricultural Products,14
-2026-10-25,Other Bank,10
-2026-10-25,Other Beverages,78
-2026-10-25,Other Capital Market related Services,38
-2026-10-25,Other Construction Materials,19
-2026-10-25,Other Consumer Services,13
-2026-10-25,Other Electrical Equipment,25
-2026-10-25,Other Financial Services,23
-2026-10-25,Other Food Products,21
-2026-10-25,Other Industrial Products,25
-2026-10-25,Other Telecom Services,20
-2026-10-25,Other Textile Products,20
-2026-10-25,Packaged Foods,36
-2026-10-25,Packaging,18
-2026-10-25,Paints,34
-2026-10-25,Paper & Paper Products,15
-2026-10-25,Passenger Cars & Utility Vehicles,37
-2026-10-25,Personal Care,38
-2026-10-25,Pesticides & Agrochemicals,18
-2026-10-25,Petrochemicals,12
-2026-10-25,Pharmaceuticals,33
-2026-10-25,Pharmacy Retail,42
-2026-10-25,Pig Iron,19
-2026-10-25,Plastic Products - Consumer,30
-2026-10-25,Plastic Products - Industrial,18
-2026-10-25,Plywood Boards/ Laminates,31
-2026-10-25,Port & Port services,23
-2026-10-25,Power - Transmission,24
-2026-10-25,Power Distribution,40
-2026-10-25,Power Generation,18
-2026-10-25,Power Trading,8
-2026-10-25,Precious Metals,31
-2026-10-25,Print Media,7
-2026-10-25,Printing & Publication,8
-2026-10-25,Printing Inks,16
-2026-10-25,Private Sector Bank,12
-2026-10-25,Public Sector Bank,7
-2026-10-25,Railway Wagons,42
-2026-10-25,Ratings,24
-2026-10-25,Real Estate Investment Trusts (REITs),61
-2026-10-25,Real Estate related services,13
-2026-10-25,Refineries & Marketing,8
-2026-10-25,"Residential, Commercial Projects",22
-2026-10-25,Restaurants,85
-2026-10-25,"Road AssetsToll, Annuity, Hybrid-Annuity",20
-2026-10-25,Road Transport,13
-2026-10-25,Rubber,18
-2026-10-25,Sanitary Ware,28
-2026-10-25,Seafood,10
-2026-10-25,Ship Building & Allied Services,41
-2026-10-25,Shipping,10
-2026-10-25,Software Products,29
-2026-10-25,Speciality Retail,30
-2026-10-25,Specialty Chemicals,25
-2026-10-25,Sponge Iron,11
-2026-10-25,Stationary,21
-2026-10-25,Stockbroking & Allied,19
-2026-10-25,Sugar,17
-2026-10-25,Tea & Coffee,16
-2026-10-25,Telecom -  Equipment & Accessories,57
-2026-10-25,Telecom - Cellular & Fixed line services,39
-2026-10-25,Telecom - Infrastructure,14
-2026-10-25,"Tour, Travel Related Services",32
-2026-10-25,Tractors,26
-2026-10-25,Trading - Auto components,9
-2026-10-25,Trading - Chemicals,24
-2026-10-25,Trading - Gas,35
-2026-10-25,Trading - Metals,42
-2026-10-25,Trading - Minerals,97
-2026-10-25,Trading - Textile Products,28
-2026-10-25,Trading & Distributors,21
-2026-10-25,Transport Related Services,19
-2026-10-25,TV Broadcasting & Software Production,24
-2026-10-25,Tyres & Rubber Products,23
-2026-10-25,Waste Management,20
-2026-10-25,Water Supply & Management,18
-2026-10-25,Web based media and service,16
-2026-10-25,Wellness,18
-2026-10-25,Zinc,58
+date,industry,median_pe,median_1y_return
+2026-10-25,2/3 Wheelers,33,-3
+2026-10-25,Abrasives & Bearings,61,-9
+2026-10-25,Advertising & Media Agencies,13,-36
+2026-10-25,Aerospace & Defense,72,7
+2026-10-25,Airline,19,-21
+2026-10-25,Airport & Airport services,164,-32
+2026-10-25,Aluminium,21,13
+2026-10-25,"Aluminium, Copper & Zinc Products",18,11
+2026-10-25,Amusement Parks/ Other Recreation,23,-22
+2026-10-25,Animal Feed,19,-5
+2026-10-25,Asset Management Company,31,-19
+2026-10-25,Auto Components & Equipments,27,-5
+2026-10-25,Auto Dealer,26,-22
+2026-10-25,Biotechnology,47,-19
+2026-10-25,Breweries & Distilleries,44,-29
+2026-10-25,Business Process Outsourcing (BPO)/ Knowledge Process Outsourcing (KPO),24,-12
+2026-10-25,Cables - Electricals,23,30
+2026-10-25,Carbon Black,35,-10
+2026-10-25,Castings & Forgings,27,2
+2026-10-25,Cement & Cement Products,24,-34
+2026-10-25,Ceramics,28,-14
+2026-10-25,Cigarettes & Tobacco Products,10,-39
+2026-10-25,Civil Construction,14,-35
+2026-10-25,Coal,21,-12
+2026-10-25,Commercial Vehicles,23,6
+2026-10-25,Commodity Chemicals,18,-11
+2026-10-25,"Compressors, Pumps & Diesel Engines",37,-13
+2026-10-25,Computers - Software & Consulting,19,-22
+2026-10-25,Computers Hardware & Equipments,21,-14
+2026-10-25,Construction Vehicles,27,-25
+2026-10-25,Consulting Services,33,-8
+2026-10-25,Consumer Electronics,35,-16
+2026-10-25,Copper,33,34
+2026-10-25,Dairy Products,26,-5
+2026-10-25,Data Processing Services,,-42
+2026-10-25,"Dealers-Commercial Vehicles, Tractors, Construction Vehicles",46,-15
+2026-10-25,"Depositories, Clearing Houses and Other Intermediaries",36,-25
+2026-10-25,Digital Entertainment,20,5
+2026-10-25,Distributors,18,-10
+2026-10-25,Diversified,14,-15
+2026-10-25,Diversified Commercial Services,16,-20
+2026-10-25,Diversified consumer products,40,-12
+2026-10-25,Diversified FMCG,39,-25
+2026-10-25,Diversified Metals,22,1
+2026-10-25,Diversified Retail,45,-10
+2026-10-25,Dredging,59,103
+2026-10-25,Dyes And Pigments,21,1
+2026-10-25,E-Learning,14,-23
+2026-10-25,E-Retail/ E-Commerce,49,-3
+2026-10-25,Edible Oil,16,-23
+2026-10-25,Education,29,-31
+2026-10-25,Electrodes & Refractories,29,0
+2026-10-25,Electronic Media,,37
+2026-10-25,Exchange and Data Platform,46,31
+2026-10-25,Explosives,79,31
+2026-10-25,Ferro & Silica Manganese,24,-28
+2026-10-25,Fertilizers,12,-30
+2026-10-25,"Film Production, Distribution & Exhibition",52,4
+2026-10-25,Financial Institution,14,-28
+2026-10-25,Financial Products Distributor,47,3
+2026-10-25,Financial Technology (Fintech),25,-20
+2026-10-25,Footwear,38,-33
+2026-10-25,Forest Products,38,-16
+2026-10-25,"Furniture, Home Furnishing",26,-16
+2026-10-25,Garments & Apparels,20,-22
+2026-10-25,Gas Transmission/Marketing,34,-15
+2026-10-25,"Gems, Jewellery And Watches",20,26
+2026-10-25,General Insurance,36,-15
+2026-10-25,Glass - Consumer,17,-39
+2026-10-25,Glass - Industrial,18,-16
+2026-10-25,Granites & Marbles,28,-24
+2026-10-25,"Healthcare Research, Analytics & Technology",30,-22
+2026-10-25,Healthcare Service Provider,35,0
+2026-10-25,Heavy Electrical Equipment,31,-15
+2026-10-25,Holding Company,10,-22
+2026-10-25,Hospital,42,-9
+2026-10-25,Hotels & Resorts,27,-26
+2026-10-25,Household Appliances,33,-28
+2026-10-25,Household Products,23,-27
+2026-10-25,Houseware,27,-22
+2026-10-25,Housing Finance Company,12,-27
+2026-10-25,Industrial Gases,59,-32
+2026-10-25,Industrial Machinery,53,
+2026-10-25,Industrial Minerals,14,-24
+2026-10-25,Industrial Products,33,-3
+2026-10-25,Insurance Distributors,21,-47
+2026-10-25,Integrated Power Utilities,22,-22
+2026-10-25,Internet & Catalogue Retail,16,-24
+2026-10-25,Investment Company,24,-27
+2026-10-25,Iron & Steel,17,-4
+2026-10-25,Iron & Steel Products,21,-5
+2026-10-25,IT Enabled Services,23,-19
+2026-10-25,Jute & Jute Products,16,-17
+2026-10-25,Leather And Leather Products,20,-12
+2026-10-25,Leisure Products,17,
+2026-10-25,Life Insurance,59,-17
+2026-10-25,Logistics Solution Provider,25,-15
+2026-10-25,LPG/CNG/PNG/LNG Supplier,14,-22
+2026-10-25,Lubricants,10,47
+2026-10-25,Meat Products including Poultry,8,3
+2026-10-25,Media & Entertainment,41,-26
+2026-10-25,Medical Equipment & Supplies,34,-27
+2026-10-25,Microfinance Institutions,11,-24
+2026-10-25,Multi Utilities,10,-52
+2026-10-25,Non Banking Financial Company (NBFC),18,-11
+2026-10-25,Offshore Support Solution Drilling,19,-10
+2026-10-25,Oil Equipment & Services,16,15
+2026-10-25,Oil Exploration & Production,49,0
+2026-10-25,Oil Storage & Transportation,54,-7
+2026-10-25,Other Agricultural Products,14,-12
+2026-10-25,Other Bank,10,-9
+2026-10-25,Other Beverages,78,-15
+2026-10-25,Other Capital Market related Services,38,94
+2026-10-25,Other Construction Materials,19,-18
+2026-10-25,Other Consumer Services,13,5
+2026-10-25,Other Electrical Equipment,25,-26
+2026-10-25,Other Financial Services,23,-13
+2026-10-25,Other Food Products,21,17
+2026-10-25,Other Industrial Products,25,-2
+2026-10-25,Other Telecom Services,20,-4
+2026-10-25,Other Textile Products,20,-6
+2026-10-25,Packaged Foods,36,-24
+2026-10-25,Packaging,18,-9
+2026-10-25,Paints,34,-13
+2026-10-25,Paper & Paper Products,15,-22
+2026-10-25,Passenger Cars & Utility Vehicles,37,-28
+2026-10-25,Personal Care,38,-23
+2026-10-25,Pesticides & Agrochemicals,18,-30
+2026-10-25,Petrochemicals,12,-7
+2026-10-25,Pharmaceuticals,33,1
+2026-10-25,Pharmacy Retail,42,7
+2026-10-25,Pig Iron,19,-13
+2026-10-25,Plastic Products - Consumer,30,-38
+2026-10-25,Plastic Products - Industrial,18,-18
+2026-10-25,Plywood Boards/ Laminates,31,-16
+2026-10-25,Port & Port services,23,3
+2026-10-25,Power - Transmission,24,1
+2026-10-25,Power Distribution,40,29
+2026-10-25,Power Generation,18,-23
+2026-10-25,Power Trading,8,-20
+2026-10-25,Precious Metals,31,26
+2026-10-25,Print Media,7,-17
+2026-10-25,Printing & Publication,8,-28
+2026-10-25,Printing Inks,16,1
+2026-10-25,Private Sector Bank,12,8
+2026-10-25,Public Sector Bank,7,-5
+2026-10-25,Railway Wagons,42,-27
+2026-10-25,Ratings,24,-14
+2026-10-25,Real Estate Investment Trusts (REITs),61,-3
+2026-10-25,Real Estate related services,13,-22
+2026-10-25,Refineries & Marketing,8,-1
+2026-10-25,"Residential, Commercial Projects",22,-24
+2026-10-25,Restaurants,85,-28
+2026-10-25,"Road AssetsToll, Annuity, Hybrid-Annuity",20,3
+2026-10-25,Road Transport,13,-43
+2026-10-25,Rubber,18,-21
+2026-10-25,Sanitary Ware,28,-40
+2026-10-25,Seafood,10,-13
+2026-10-25,Ship Building & Allied Services,41,-21
+2026-10-25,Shipping,10,4
+2026-10-25,Software Products,29,-35
+2026-10-25,Speciality Retail,30,-30
+2026-10-25,Specialty Chemicals,25,-6
+2026-10-25,Sponge Iron,11,-22
+2026-10-25,Stationary,21,-26
+2026-10-25,Stockbroking & Allied,19,-13
+2026-10-25,Sugar,17,-3
+2026-10-25,Tea & Coffee,16,-13
+2026-10-25,Telecom -  Equipment & Accessories,57,10
+2026-10-25,Telecom - Cellular & Fixed line services,39,-13
+2026-10-25,Telecom - Infrastructure,14,-32
+2026-10-25,"Tour, Travel Related Services",32,-37
+2026-10-25,Tractors,26,-30
+2026-10-25,Trading - Auto components,9,-9
+2026-10-25,Trading - Chemicals,24,-40
+2026-10-25,Trading - Gas,35,59
+2026-10-25,Trading - Metals,42,-2
+2026-10-25,Trading - Minerals,97,78
+2026-10-25,Trading - Textile Products,28,-8
+2026-10-25,Trading & Distributors,21,-7
+2026-10-25,Transport Related Services,19,7
+2026-10-25,TV Broadcasting & Software Production,24,-35
+2026-10-25,Tyres & Rubber Products,23,-23
+2026-10-25,Waste Management,20,-29
+2026-10-25,Water Supply & Management,18,-15
+2026-10-25,Web based media and service,16,-31
+2026-10-25,Wellness,18,-34
+2026-10-25,Zinc,58,87
