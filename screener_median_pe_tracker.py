@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 URL = "https://www.screener.in/market/"
 CSV_FILE = Path(__file__).with_name("median_pe_history.csv")
-FIELDS = ["date", "industry", "median_pe"]
+FIELDS = ["date", "industry", "median_pe", "median_1y_return"]
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
@@ -26,6 +26,13 @@ def parse_number(text):
         return ""
 
 
+def find_index(table, name):
+    for th in table.find_all("th"):
+        if name in th.get_text(strip=True).lower():
+            return len(th.find_previous_siblings(["th", "td"]))
+    return None
+
+
 def fetch_data():
     resp = requests.get(URL, headers=HEADERS, timeout=30)
     resp.raise_for_status()
@@ -35,21 +42,21 @@ def fetch_data():
     if table is None:
         sys.exit("Table nahi mili.")
 
-    pe_index = None
-    for th in table.find_all("th"):
-        if "median p/e" in th.get_text(strip=True).lower():
-            pe_index = len(th.find_previous_siblings(["th", "td"]))
-            break
-    if pe_index is None:
-        sys.exit("'Median P/E' column nahi mila.")
+    pe_index = find_index(table, "median p/e")
+    ret_index = find_index(table, "median 1y return")
+    if pe_index is None or ret_index is None:
+        sys.exit("Median P/E ya Median 1Y Return column nahi mila.")
 
+    need = max(pe_index, ret_index)
     rows = []
     for tr in table.find_all("tr"):
         cells = tr.find_all("td")
-        if len(cells) <= pe_index or not cells[0].get_text(strip=True).rstrip(".").isdigit():
+        if len(cells) <= need or not cells[0].get_text(strip=True).rstrip(".").isdigit():
             continue
         industry = cells[1].get_text(strip=True)
-        rows.append((industry, parse_number(cells[pe_index].get_text())))
+        pe = parse_number(cells[pe_index].get_text())
+        ret = parse_number(cells[ret_index].get_text())
+        rows.append((industry, pe, ret))
     return rows
 
 
@@ -62,11 +69,18 @@ def save(rows):
             existing = [r for r in csv.DictReader(f) if r["date"] != today]
 
     with CSV_FILE.open("w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=FIELDS)
+        writer = csv.DictWriter(f, fieldnames=FIELDS, restval="")
         writer.writeheader()
         writer.writerows(existing)
-        for industry, pe in rows:
-            writer.writerow({"date": today, "industry": industry, "median_pe": pe})
+        for industry, pe, ret in rows:
+            writer.writerow(
+                {
+                    "date": today,
+                    "industry": industry,
+                    "median_pe": pe,
+                    "median_1y_return": ret,
+                }
+            )
 
 
 def main():
